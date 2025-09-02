@@ -1,0 +1,8 @@
+mkdir {Folder Name}   - MAC
+
+mkdir {Directory} {Directory}
+
+mkdir SeaTurtles LandTurtles
+
+mkdir(Make Directory): mkdir will create a new directory or directories on present path
+

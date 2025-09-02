@@ -1,0 +1,8 @@
+Command: ls {Folder Name}     - MAC
+
+ls Pets
+
+
+Command: ls {Folder Name/}    - Windows
+
+ls Pets/

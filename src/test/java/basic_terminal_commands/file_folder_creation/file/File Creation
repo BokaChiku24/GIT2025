@@ -1,0 +1,7 @@
+touch {File Name.extension}  - MAC
+
+touch test.txt
+
+touch orange.js red.txt purple.py HelloWorld.java
+
+touch: Use touch to create a file (or multiple file) in present directory

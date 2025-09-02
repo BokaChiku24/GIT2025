@@ -1,0 +1,4 @@
+rm -rf Plants
+
+
+rm -rf: Use rm -rf to delete a directory (r=recursive, f=force)
