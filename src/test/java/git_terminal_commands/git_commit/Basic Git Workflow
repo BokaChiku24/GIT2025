@@ -1,0 +1,13 @@
+The Basic Git Workflow
+
+1) Work On Stuff
+
+-> Make new files, edit files, delete files, etc
+
+2) Add Changes
+
+-> Group specific changes together, in preparation of committing
+
+3) Commit
+
+-> Commit everything that was previously added

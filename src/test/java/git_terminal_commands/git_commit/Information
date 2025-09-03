@@ -1,0 +1,8 @@
+Git Commit
+
+- > We use the git commit command to actually commit changes from the staging area.
+
+-> When making a commit, we need tp provide a commit message that summarizes the changes and
+work snapshot in the commit.
+
+-> https://git-scm.com/docs/git-commit

@@ -1,0 +1,17 @@
+git commit -m "my message"
+
+
+
+
+The -m flag allows us to pass in an inline commit message rater than launching a text
+editor.
+
+kunalchavan@Kunals-MacBook-Pro GitCommandPractice % git commit -m "My first commit from command prompt"
+[main (root-commit) a03dc95] My first commit from command prompt
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 charachters.txt
+ create mode 100644 test.txt
+kunalchavan@Kunals-MacBook-Pro GitCommandPractice % git status
+On branch main
+nothing to commit, working tree clean
+kunalchavan@Kunals-MacBook-Pro GitCommandPractice %

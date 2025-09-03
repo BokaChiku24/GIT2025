@@ -1,0 +1,17 @@
+       -------Working Directory
+       |
+       |
+       |
+       git add
+       |
+       |
+       |
+       ------- Staging Area -------
+                                   |
+                                   |
+                                   |
+                                   git commit
+                                   |
+                                   |
+                                   |
+                Repository  -------

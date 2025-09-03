@@ -1,0 +1,4 @@
+Do not init a repo inside of a repo!
+
+Before running git init, use git status to verify that you are not currently
+inside of a repo.

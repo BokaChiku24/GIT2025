@@ -1,0 +1,13 @@
+git log
+
+
+
+
+This display log of commits with date and time
+
+kunalchavan@Kunals-MacBook-Pro GitCommandPractice % git log
+commit a03dc95b0b69ff9b4837efdf1c9eac38c5e86f4d (HEAD -> main)
+Author: kunalchavan <kunal24chavan@gmail.com>
+Date:   Wed Sep 3 13:43:30 2025 +0530
+
+    My first commit from command prompt
