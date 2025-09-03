@@ -1,0 +1,25 @@
+kunalchavan@Kunals-MacBook-Pro ~ % mkdir GitCommandPractice
+kunalchavan@Kunals-MacBook-Pro ~ % cd GitCommandPractice
+kunalchavan@Kunals-MacBook-Pro GitCommandPractice % git status
+fatal: not a git repository (or any of the parent directories): .git
+kunalchavan@Kunals-MacBook-Pro GitCommandPractice % git init
+Initialized empty Git repository in /Users/kunalchavan/GitCommandPractice/.git/
+kunalchavan@Kunals-MacBook-Pro GitCommandPractice % git status
+On branch main
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+kunalchavan@Kunals-MacBook-Pro GitCommandPractice %
+
+kunalchavan@Kunals-MacBook-Pro GitCommandPractice % touch test.txt
+kunalchavan@Kunals-MacBook-Pro GitCommandPractice % git status
+On branch main
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	test.txt
+
+nothing added to commit but untracked files present (use "git add" to track)

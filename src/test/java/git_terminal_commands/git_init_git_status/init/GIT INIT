@@ -1,0 +1,20 @@
+git init
+
+git init: Use git init to create a new git repository. before we can do anything,
+          we must initialize a repo first !
+
+kunalchavan@Kunals-MacBook-Pro GitCommandPractice % ls -a
+.		..		.git		test.txt
+
+kunalchavan@Kunals-MacBook-Pro GitCommandPractice % cd .git
+kunalchavan@Kunals-MacBook-Pro .git % ls
+config		description	HEAD		hooks		info		objects		refs
+kunalchavan@Kunals-MacBook-Pro .git %
+
+kunalchavan@Kunals-MacBook-Pro .git % cd ..
+kunalchavan@Kunals-MacBook-Pro GitCommandPractice %
+kunalchavan@Kunals-MacBook-Pro GitCommandPractice % rm -rf .git
+kunalchavan@Kunals-MacBook-Pro GitCommandPractice % git status
+fatal: not a git repository (or any of the parent directories): .git
+kunalchavan@Kunals-MacBook-Pro GitCommandPractice % git init
+Initialized empty Git repository in /Users/kunalchavan/GitCommandPractice/.git/
