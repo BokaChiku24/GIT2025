@@ -1,0 +1,7 @@
+We can tell which files and directories to ignore in a given repository, using a
+.gitignore. This is useful for files you know you never want to commit, including:
+
+> Secrets, API Keys, Credentials
+> Operating System Files (.DS_Store on Mac)
+> Log Files
+> Dependencies & packages

@@ -1,0 +1,4 @@
+git log --oneline
+
+
+It display commit code and message in one line

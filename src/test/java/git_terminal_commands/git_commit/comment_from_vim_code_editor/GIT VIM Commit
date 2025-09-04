@@ -1,0 +1,4 @@
+Git Commit
+
+-> Running git commit will commit all staged changes. It also opens up a text editor
+   and prompts you for a commit message.

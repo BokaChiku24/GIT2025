@@ -1,0 +1,4 @@
+git log --abbrev-commit
+
+
+It is used to shorten the commit hexadecimal number message
