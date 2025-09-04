@@ -1,0 +1,9 @@
+Creating & Switching
+
+> git switch -c <branch-name>
+
+> Use git switch with the -c flag to create a new branch AND switch io it all in one go.
+
+> Remember -c as short for "create"
+
+> https://git-scm.com/docs/git-checkout

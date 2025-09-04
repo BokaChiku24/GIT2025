@@ -1,0 +1,19 @@
+HEAD
+
+> We'll often come across the term HEAD in Git.
+
+> HEAD is simply a pointer that refers to the current "Location" in your repository.
+  It points to a particular branch reference
+
+> HEAD always points to the latest commit you made on the master branch, but as we change
+  the branch and perform commit then HEAD location changes.
+
+>
+
+   ls -a
+   cd .git
+   ls
+   cat HEAD
+   cd ..
+   git switch oldies
+   cat .git/HEAD

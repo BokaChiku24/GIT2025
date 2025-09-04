@@ -1,0 +1,11 @@
+Branches
+
+> Branches are an essential part of Git!
+
+> Think of branches as alternative timeline for a project.
+
+> They enable us to create separate contexts where we can try new things,
+  or even work on multiple ideas in parallel.
+
+> If we make changes on one branch, they do not impact the other branch
+  (unless we merge the branch changes)

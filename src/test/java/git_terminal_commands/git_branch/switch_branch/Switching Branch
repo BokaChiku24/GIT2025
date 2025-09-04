@@ -1,0 +1,7 @@
+Switching Branches
+
+git switch <branch-name>
+
+> Once a new branch created, use git switch <branch-name> to switch it.
+
+https://git-scm.com/docs/git-switch

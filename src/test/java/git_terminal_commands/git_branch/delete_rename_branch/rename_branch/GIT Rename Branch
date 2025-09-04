@@ -1,0 +1,3 @@
+Make sure you are on the branch
+
+git branch -m <branch-name>

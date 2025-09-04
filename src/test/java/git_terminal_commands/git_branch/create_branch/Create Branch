@@ -1,0 +1,6 @@
+Creating Branches
+
+> Use git branch <branch-name> to make a new branch based upon the current HEAD
+
+> This is just creates the branch. It does not switch you to that branch (the HEAD
+  stays the same)

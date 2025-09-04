@@ -1,0 +1,8 @@
+https://git-scm.com/docs/git-branch
+
+Viewing Branch
+
+> Use git branch to view your existing branches.
+
+> The default branch in every git repo is master, though you can configure this.
+

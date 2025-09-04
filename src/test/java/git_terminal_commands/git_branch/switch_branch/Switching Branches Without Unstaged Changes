@@ -1,0 +1,7 @@
+Switching Branches Without Unstaged Changes:
+
+> If we perform any change on the branch and we don't perform either add or commit.
+
+> If we try to switch to another branch then it throws error
+
+> It aks to perform either perform commit or stash changes.

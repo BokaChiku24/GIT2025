@@ -1,0 +1,12 @@
+touch .gitignore
+ls -a
+
+
+Add the files which we don't want to add in the git and commit
+
+> Create a file called .gitignore in the root of a repository. Inside the file,
+  we can write patterns to tell Git which files 7 folders to ignore:
+
+> .DS_Store will ignore files named .DS_Store
+> folderName/ will ignore an entire directory
+> .log will ignore any files with .log extension

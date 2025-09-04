@@ -1,0 +1,6 @@
+git checkout <branch-name>
+
+> We can used git checkout <branch-name> to switch branches.
+
+> The checkout command does a million additional things, so the decision was made
+  to add a standalone switch command which is much simpler
