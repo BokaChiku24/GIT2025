@@ -1,0 +1,16 @@
+> git clone <url>
+
+e.g. git clone https://github.com/blah
+
+
+git clone
+
+> To clone a repo, simply run git clone <url>
+
+> Git will retrieve all the files associated with the repository and will copy them
+  to your local machine.
+
+> In addition, Git initialize a new repository on your local machine, giving you access
+  to the full Git history of the cloned project.
+
+> Make sure you are not inside of a repo when you clone!

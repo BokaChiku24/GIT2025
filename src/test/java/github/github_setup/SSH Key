@@ -1,0 +1,14 @@
+Configure SSH Key:
+
+SSH Keys:
+
+> You need to be authenticated on Github to do certain operations, like pushing
+  up code from your local machine. Your terminal will prompt you every signal time
+  for your Github email and password, unless...
+
+> You generate and configure on SSH key! Once configured, you can connect to Github
+  without having to supply your username/password
+
+> ssh-keygen -t ed25519 -C "your_email@example.com"
+
+> File name: id_ed25519

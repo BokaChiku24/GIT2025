@@ -1,0 +1,22 @@
+Cloning
+
+> We have created our own Git repositories from scratch, but often we want to get
+  a local copy of an existing repository instead.
+
+> To do this, we can clone a remote repository hosted on Github or similar websites.
+  All we need is a URL that we can tell Git to clone for use.
+
+> https://git-scm.com/docs/git-clone
+
+> https://github.com/gabrielecirulli/2048
+
+> https://github.com/poteto/hiring-without-whiteboards
+
+> Anyone can clone a repository from Github, provided repo is public.
+  You do not need to be owner or collaborator to clone the repo locally to
+  your machine. You just need the URL from Github.
+
+> Pushing up your own changes to the Github repo...that's another story entirely!
+  You need permission to do that!
+
+> git clone is a standard git command
