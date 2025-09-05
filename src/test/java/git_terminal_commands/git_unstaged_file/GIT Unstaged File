@@ -1,0 +1,11 @@
+> git restore --staged <file-name with extension>
+
+
+Unstaging Files with Restore
+
+> If you have accidentally added a file to your staging area with git add and
+  you don't wish to include it in the next commit, you can use git restore to
+  remove it from staging.
+
+> Use the --staged option like this:
+  git restore --staged <file-name with extension>

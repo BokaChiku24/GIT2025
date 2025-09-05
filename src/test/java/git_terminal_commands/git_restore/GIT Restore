@@ -1,0 +1,12 @@
+git restore <file-name>
+
+
+Unmodifying Files with Restore
+
+> Suppose you've made some changes to a file since your last commit. You've saved
+  the file but then realize you definitely do NOT want those changes anymore!
+
+> To restore the file to the contents in the HEAD, use git restore <file-name>
+
+> NOTE: The above command is not "undoable". If you have uncommitted changes in the
+        file, they will be lost!

@@ -1,0 +1,10 @@
+> git reset --hard <commit-hash>
+
+
+Reset --hard
+
+If you want to undo both the commits AND the actual changes in your files,
+you can use the --hard option.
+
+For example, git reset --hard HEAD~1 will delete the last commit and
+associated changes.

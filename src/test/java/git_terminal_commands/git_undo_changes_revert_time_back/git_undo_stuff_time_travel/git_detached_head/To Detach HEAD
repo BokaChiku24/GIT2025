@@ -1,0 +1,3 @@
+> git checkout <commit-hash>
+
+e.g. git checkout d8194d5

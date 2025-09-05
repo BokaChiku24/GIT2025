@@ -1,0 +1,9 @@
+> git checkout HEAD~1
+
+Checkout
+
+git checkout supports a slightly odd syntax for referencing previous commits relative to a
+particular commit.
+
+HEAD~1 refers to the commit before HEAD (parent)
+HEAD~2 refers to 2 commits before HEAD (grandparent)

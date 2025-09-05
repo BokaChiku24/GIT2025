@@ -1,0 +1,4 @@
+git checkout -- <file>
+
+> Rather than typing HEAD, you can substitute -- followed by the file(s) you want to
+  restore.

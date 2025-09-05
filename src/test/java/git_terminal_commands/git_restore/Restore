@@ -1,0 +1,12 @@
+Restore
+
+> git restore is a brand new Git command that helps with undoing operations.
+
+> Because it is so new, most of existing Git tutorials and books do not mention it
+  but it is worth knowing!
+
+> Recall that git checkout does a million different things, which may git users find very
+  confusing.
+
+> git restore was introduced alongside git switch as alternative to some of the users
+  for checkout.

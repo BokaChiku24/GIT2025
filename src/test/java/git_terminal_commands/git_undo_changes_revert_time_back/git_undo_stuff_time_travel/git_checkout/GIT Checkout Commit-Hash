@@ -1,0 +1,9 @@
+> git checkout <commit-hash>
+
+e.g. git checkout d8194d5
+
+Checkout:
+1. We can use git checkout <commit-hash> to view a previous commit.
+
+2. Remember, you can use the git log command to view commit hashes.
+   We just need the first 7 digits of a commit hash.
