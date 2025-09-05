@@ -1,0 +1,4 @@
+git stash clear
+
+Clearing The Stash
+To clear out all stashes, run git stash clear
