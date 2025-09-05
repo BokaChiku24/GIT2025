@@ -1,0 +1,20 @@
+Compared Files:
+For each comparison, Git explains which files it is comparing. Usually this is
+two version of the same file.
+Git also declare one file as "A" and other file as "B".
+
+diff --git  a/rainbow.txt b/rainbow.txt
+            old file      new file (Compared Files:)
+
+index 687578..fght785 18y78565
+--- a/rainbow.txt
++++ b/rainbow.txt
+@@ -3, 4 +3, 5 @@ orange
+
+yellow
+green
+blue
+-purple
++indigo
++violet
+

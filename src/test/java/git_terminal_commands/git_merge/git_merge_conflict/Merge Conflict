@@ -1,0 +1,27 @@
+Depending on the specific changes you are trying to merge, Git may not be able to automatically merge.
+This results in merge conflicts, which you need to resolve manually.
+
+CONFLICT (content): Merge conflict in blah.txt
+Automatically merge failed; fix conflicts and then commit the result.
+
+When we encounter a merge conflict, Git warns you in the console that it could not automatically
+merge.
+
+It also changes the content of your files to indicate
+the conflicts that it wants you to resolve.
+
+
+<<<<<<<<<<HEAD
+I have 2 cats
+I also have chickens
+===========
+I used to have a dog :(
+>>>>>>>>>>>>bug-fix
+
+
+Conflict Markers:
+The content of your current HEAD(the branch you are trying to merge content into)
+is displayed between the <<<<<<<<<<HEAD and ===========
+
+The content from the branch you are trying to merge from is displayed between
+the =========== and >>>>>>>>>>>> symbols.

@@ -1,0 +1,5 @@
+git stash apply
+
+> You can use git stash apply to apply whatever is stashed away, without removing
+  it from the stash. This can be useful if you want to apply stashed changes to multiple
+  branches.

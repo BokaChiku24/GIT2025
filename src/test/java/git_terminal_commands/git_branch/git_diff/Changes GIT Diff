@@ -1,0 +1,20 @@
+Changes:
+Every line that changed between the two files is marked with either a+ or -  symbol.
+
+Lines that begin with - come from file A
+
+Lines that begin with + come from file B
+
+diff --git  a/rainbow.txt b/rainbow.txt -> File Compared
+index 687578..fght785 18y78565  -> File Metadata
+--- a/rainbow.txt -> Markers
++++ b/rainbow.txt -> Markers
+@@ -3, 4 +3, 5 @@ orange -> Line 12 to line 19 is Chunks
+
+yellow
+green
+blue
+-purple  -> Changes
++indigo  -> Changes
++violet  -> Changes
+

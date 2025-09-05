@@ -1,0 +1,6 @@
+git diff
+
+> Without additional options, git diff lists all the changes in our working
+  directory that are NOT staged for next commit
+
+> Compares Staging Area anf Working Directory

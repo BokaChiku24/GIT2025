@@ -1,0 +1,6 @@
+> git stash apply stash@{2}
+
+Applying Specific Stashes
+
+Git assumes you want to apply the most recent stash when you run git stash apply,
+but you can also specify a particular stash like git stash apply stash@{2}

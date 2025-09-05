@@ -1,0 +1,7 @@
+Stashing
+
+Git provides an easy way of stashing these uncommited changes so that we can return to them later
+without having to make unnecessary commits.
+
+1. My Changes come with me to the destination branch
+2. Git won't let me switch if it detects potential conflicts

@@ -1,0 +1,16 @@
+> git stash
+do some other stuff...
+> git stash
+do dome other stuff...
+> git stash
+
+
+> git stash list
+
+Stashing Multiple Time:
+
+You can add multiple stashes onto the stash of stashes. They
+will all be stashed in the order you added them.
+
+git stash list -> It shows stash trace of all saved stash
+

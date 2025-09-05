@@ -1,0 +1,25 @@
+Merging
+
+> Branch make it super easy to work within self-contained contexts, but often we
+  want to incorporate changes from one branch into another!
+
+> We can do using the git merging command
+
+> We merge branches, not specific commits
+
+> We always merge to the current HEAD branch
+
+Merging Workflow:
+
+> git switch <branch-name>
+  git merge <merge-branch-name>
+
+==================================================
+
+Merging Made Easy
+
+> Switch to or checkout the branch you want to merge the changes
+  into (the receiving branch)
+
+> Use the git merge command to merge changes from a specific branch
+  into current branch

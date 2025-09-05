@@ -1,0 +1,10 @@
+Resolving Conflicts
+
+1. Open up the file(s) with merge conflicts
+
+2. Edit the files(s) to remove the conflicts. Decide which branch content you want
+   to keep in each conflict. Or keep the content from both.
+
+3. Remove the conflict "makers" in the document
+
+4. Add your change and commit the code

@@ -1,0 +1,18 @@
+Markers:
+File A and File B are each assigned a symbol:
+File A gets a minus sign (-)
+File b gets a plus sign (+)
+
+diff --git  a/rainbow.txt b/rainbow.txt -> File Compared
+index 687578..fght785 18y78565  -> File Metadata
+--- a/rainbow.txt -> Markers
++++ b/rainbow.txt -> Markers
+@@ -3, 4 +3, 5 @@ orange
+
+yellow
+green
+blue
+-purple
++indigo
++violet
+

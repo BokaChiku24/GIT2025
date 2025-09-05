@@ -1,0 +1,7 @@
+git diff -- staged
+git diff --cached
+
+git diff --staged or --cached will list the changes between the staging area our
+last commit.
+
+"Show me what will be included in my commit if I run git commit right now"

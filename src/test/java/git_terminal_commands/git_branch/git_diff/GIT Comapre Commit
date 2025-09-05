@@ -1,0 +1,3 @@
+git diff commit1..commit2
+
+To compare two commits, provide git diff with the commit hashes of the commits in question

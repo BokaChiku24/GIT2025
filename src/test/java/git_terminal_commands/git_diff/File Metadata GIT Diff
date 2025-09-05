@@ -1,0 +1,19 @@
+File Metadata:
+You really do not need to care about the file metadata.
+
+The first two numbers are the hashes of the two files being compared. The last number is an
+internal file mode identifier.
+
+diff --git  a/rainbow.txt b/rainbow.txt -> File Compared
+index 687578..fght785 18y78565  -> File Metadata
+--- a/rainbow.txt
++++ b/rainbow.txt
+@@ -3, 4 +3, 5 @@ orange
+
+yellow
+green
+blue
+-purple
++indigo
++violet
+

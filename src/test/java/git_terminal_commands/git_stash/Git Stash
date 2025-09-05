@@ -1,0 +1,9 @@
+git stash
+git stash save
+
+> git stash is super useful command that helps you save changes
+  that you are not ready to commit. You can stash changes and then
+  come back to them later.
+
+> Running git stash will take all uncommitted changes (stage and unstaged)
+  and stash them, reverting the changes in your working copy.

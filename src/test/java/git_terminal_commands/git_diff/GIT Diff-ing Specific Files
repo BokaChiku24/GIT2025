@@ -1,0 +1,4 @@
+git diff HEAD [filename]
+git diff --staged [filename]
+
+We can view the changes within a specific file by providing git diff with a filename.

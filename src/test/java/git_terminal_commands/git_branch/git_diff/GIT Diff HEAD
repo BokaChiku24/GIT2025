@@ -1,0 +1,3 @@
+git diff HEAD
+
+> git diff HEAD list all changes in the working tree since your last commit.
