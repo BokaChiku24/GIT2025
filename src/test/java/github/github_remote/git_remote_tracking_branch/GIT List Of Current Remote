@@ -1,0 +1,15 @@
+> git remote -v
+
+
+
+Viewing Remotes
+
+> To view any existing remotes for you repository, we can run "git remote" or
+  "git remote -v"
+
+> This is just displays a list of remotes. If you haven't added any remotes yet,
+  you won't see anything!
+
+> It display fetch and push Github urls
+
+

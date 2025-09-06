@@ -1,0 +1,6 @@
+> git branch -r
+
+
+
+Remote Branches
+Run git branch -r to view the remote branches our local repository knows about

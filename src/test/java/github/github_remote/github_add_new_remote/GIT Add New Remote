@@ -1,0 +1,10 @@
+> git remote add <name> <url>
+
+e.g. git remote add origin https://github.com/blah/repo.git
+
+
+Adding A NEw Remote
+
+> A remote is really two things : a URL and  a label.
+
+> To add a new remote, we need to provide both to Git.

@@ -1,0 +1,43 @@
+> git branch
+
+*master
+(It not takes other branches)
+
+
+Remote Branches
+
+> When we cloned a repository, we have all data and Git history for the project at that
+  moment in time. However, that does not mean it's all in my workspace!
+
+> The Github repo has a branch called "pippies" but when I run "git branch" I don't see
+  it on my machine! All I see is the master branch.
+
+
+*******************************************************
+
+> git branch -r
+
+
+> This will show all other branches in the list view
+
+*******************************************************
+
+How to work on other branch?
+
+> If we use "git checkout <remote>/<branch>, but that will put you in HEAD detached mode.
+
+> We want owr own local branch called "puppies", and I want it to be connected to "origin/puppies"
+  just like my local "master" branch is connected to the "origin/master"
+
+*******************************************************
+
+It's Super Easy !
+
+> git switch <branch-name>
+
+
+Run "git switch <remote-branch-name> to create a new local branch from the remote branch
+of the same name.
+
+"git switch puppies" makes me a local puppies branch AND sets it up to track the remote
+branch origin/puppies.

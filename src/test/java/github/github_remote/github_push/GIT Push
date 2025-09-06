@@ -1,0 +1,10 @@
+> git push <remote> <branch>
+
+
+e.g. git push origin master
+
+Pushing
+> We need to specify the remote we want to push up to AND the specific local branch
+  we want to push up to that remote.
+
+

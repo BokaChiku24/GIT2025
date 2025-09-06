@@ -1,0 +1,14 @@
+When we clone the repository from the Github to our local machine it takes all branch
+in our local system with "<remote-label>/<branch-name>".
+
+This is a "Remote Tracking Branch". It's a reference to the state of the master branch
+on the remote. We can't move this self. It is like a bookmark pointing to the last known
+commit on the master branch of the origin.
+
+"At the time you last communicated with this remotes repository,
+here is where x branch was pointing."
+
+They follow this patter "<remote>/<branch>"
+1. "origin/master" reference the state of the mster branch on the remote repo named origin.
+2. "upstream/logoRedesign" reference the state of the "logoRedesign" branch on the remote named
+   upstream

@@ -1,0 +1,10 @@
+Fetching
+
+> Fetching allow us to download changes from a remote repository, BUT those changes will not
+  be automatically integrated into working files.
+
+> It let you see what others have been working on, without having to merge those changes into
+  your local repo.
+
+> Think of it as "Please go and get the latest information from Github, but don't screw up
+  my working directory".

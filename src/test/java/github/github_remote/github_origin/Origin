@@ -1,0 +1,7 @@
+Origins:
+
+> Origin is a conventional Git remote name, but it is not at all special. It is just a
+name for a URL.
+
+> When we clone a Github repo, the default remote name setup for us is called origin.
+  We can change the name. Most people leave it.

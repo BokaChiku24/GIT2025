@@ -1,0 +1,12 @@
+> git pull
+
+
+
+An even easier syntax:
+
+> If we run "git pull" without specifying a particular remote or branch to pull from, git
+  assumes the following:
+
+  1. remote will default to origin
+  2. branch will default to whatever tracking connection is configured for your
+     current branch

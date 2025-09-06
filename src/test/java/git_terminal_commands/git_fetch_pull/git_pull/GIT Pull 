@@ -1,0 +1,27 @@
+> git pull <remote> <branch>
+
+
+
+Pulling
+
+> "git pull" is another command we can use to retrieve changes from s remote repository.
+
+> Unlike fetch, pull actually updates our HEAD branch with whatever changes are retrieved from
+  the remote.
+
+> "Go and download data from github AND immediately update my local repo with those changes"
+
+> git pull = git fetch                           +   get merge
+             (Update the remote tracking branch    (Update my current branch with
+              with latest changes from the          whatever changes are on the remote
+              remote repository)                    tracking branch)
+
+> To pull, we specify particular remote and branch we want to pull using
+  "git pull <remote> <branch>".
+
+> Just like with "git merge <branch>", it matters WHERE we run this command from.
+  Whatever branch we run it from is where the change will be merged.
+
+> "git pull origin master" would fetch the latest information from the origins master
+  branch and merge those changes into our current branch.
+

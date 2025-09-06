@@ -1,0 +1,12 @@
+|  git add       |                     |                              |
+|                | git commit          |                              |
+|                |                     |   git push                   |
+|                |                     |                              |
+|                |                     |                              |
+Workspace        Staging (index)      Local Repository      Remote Repository
+|                |                     |                              |
+|                |                     |                              |
+|                |                     |                              |
+|                |                     |         git fetch            |
+|                    git pull                                         |
+|                |                     |                              |

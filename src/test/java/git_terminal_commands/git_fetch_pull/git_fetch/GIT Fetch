@@ -1,0 +1,30 @@
+> get fetch <remote>
+
+
+
+Git Fetch
+
+> The "git fetch <remote>" command fetches branches and history from a specific remote
+  repository.
+
+> It only updates remote tracking branches.
+
+> "git fetch origin" would fetch all changes from the origin remote repository.
+
+> If not specified "<remote>" it consider default. i.e. origin
+
+******************************************************
+
+> get fetch <remote> <branch>
+
+> We can also fetch a specific branch from a remote using "git fetch <remote> <branch>"
+
+> For example, "git fetch origin master" would retrieve the latest information
+  from the master branch on the origin remote repository.
+
+******************************************************
+
+Fetch store all updated information into origin/master
+
+
+

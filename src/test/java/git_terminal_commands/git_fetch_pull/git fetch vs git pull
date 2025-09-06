@@ -1,0 +1,13 @@
+git fetch
+
+- Gets changes from remote branches
+- Update the remote-tracking branches with the new changes
+- Does not merge changes onto your current HEAD branch
+- Safe to do at anytime
+
+
+git pull
+- Get changes from remote branches
+- Update the current branches with the new changes, merging them in
+- Can result in merge conflicts
+- Not recommended if you have uncommited changes!

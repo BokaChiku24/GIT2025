@@ -1,0 +1,24 @@
+> git push -u origin master
+
+> git push -u origin <local-branch>:<remote-branch>
+
+The -u option:
+
+> The -u option allows us to set the upstream of the branch we're pushing.
+
+> You can think of this as a link connecting our local branch to a branch on Github.
+
+> Running "git push -u origin master" sets the upstream of the local master branch so
+  that it tracks the master branch on the origin repo.
+
+What This Means:
+
+> One we've set the upstream for a branch, we can use the git push shorthand which
+  will push our current branch to upstream
+
+> git push -u origin master
+            |
+            |
+            |
+         git push
+

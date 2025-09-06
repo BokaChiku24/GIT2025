@@ -1,0 +1,9 @@
+> git push <remote-label> <local-branch>:<remote-branch>
+
+
+e.g. git push origin pancake:waffle
+
+Push In Detail
+
+> To push our local pancake branch up to a remote branch called waffle we could do:
+  git push origin pancake:waffle
