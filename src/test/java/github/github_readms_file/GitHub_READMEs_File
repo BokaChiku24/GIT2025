@@ -1,0 +1,20 @@
+READMEs
+
+> A README file is used to communicate important information about a repository
+  including:
+
+- What the project does
+- How to run the project
+- Why it's noteworthy
+- Who maintains the project
+- If you put a README in the root of your project Github will recognize it and
+  automatically display it on the repo's home page
+
+
+**************************************************************************************
+
+README.md
+
+> READMEs are the "Markdown files", ending with the .md extension.
+
+> Markdown is the convenient syntax to generate formatted text. It's easy to pick up!

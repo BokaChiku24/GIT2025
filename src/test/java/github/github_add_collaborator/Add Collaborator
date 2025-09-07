@@ -1,0 +1,13 @@
+> Open the repository on the Github
+> Go to the settings
+> Go to the manage access
+> Under "Manage Access" => "Invite a collaborator"
+> Add {username} to this repository
+
+> Login to added username
+> Then perform "Accept invitation"
+
+> Go to the authentication {username} Github
+> Go to the settings
+> Go to the manage access
+> Now "Direct Access" and "Manage Access" display added collaborator
