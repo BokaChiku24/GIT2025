@@ -22,6 +22,14 @@
   They typically signify bug fixes and other changes that do not impact
   how the code is used
 
+> Minor Release
+
+  Minor release signify that new feature or functionality have been added ,
+  but the project still in backward compatible. No breaking changes.
+  The new functionality is optional and should not force user to rewrite their own
+  code.
+
+
 > https://semver.org
 
 > https://getbootstrap.com/docs/versions/
