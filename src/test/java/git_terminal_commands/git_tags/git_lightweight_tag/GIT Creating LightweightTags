@@ -1,0 +1,22 @@
+> git tag <tag-name>
+
+
+Creating Lightweight tags
+
+> To create a lightweight tag, use "git tag <tag-name>"
+
+> By default, Git will create the tag referring to the commit that HEAD is
+  referencing.
+
+
+-------------------------------------------------------------------------------
+
+> git status
+> git clone url
+> touch test.txt
+> git status
+> git commit -am "New change"
+> git tag 18.0.0
+> git tag
+> git log --oneline
+> git diff v17.0.2..v17.0.3

@@ -1,0 +1,16 @@
+> git tag <tag-name> <commit>
+
+Tagging Previous Commits
+
+> So far we've seen how to tag the commit that HEAD references.
+
+> We can also tag an older commit by providing the commit hash:
+
+  git tag -a <tag-name> <commit-hash>
+
+> git tag
+> git show v18.6.1
+> git log --oneline
+> git tag <tag-name> <commit hashcode>
+> git tag
+> git log --oneline

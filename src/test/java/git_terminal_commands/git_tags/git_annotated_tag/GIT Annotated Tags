@@ -1,0 +1,23 @@
+> git tag -a <tag-name>
+
+
+Annotated Tags
+
+> Use "git tag -a" to create a new annotated tag. Git will then open your default
+  text editor and prompt you for additional information.
+
+> Similar to git commit, we can also use the -m option to pass a message directly
+  and forgo the opening of the text editor
+
+> git status
+> git clone url
+> touch test.txt
+> git status
+> git commit -am "New change"
+> git tag -a v26.1.0
+
+----------------------------------------------------------------------------------
+
+To check author and more information
+
+> git show v26.1.0

@@ -1,0 +1,14 @@
+> git tag
+
+
+Viewing Tags
+
+> git tag will print a list of all the tags in the current repository
+
+> We can seatch for tags that matches a particular pattern by using git tag -l
+  and then passing in a wildcard pattern. For example, git tag -l "*beta*"
+  will print a list of tags that include "beta" in their name.
+
+
+> https://github.com/facebook/react
+

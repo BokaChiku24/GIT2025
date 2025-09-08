@@ -1,0 +1,16 @@
+> git checkout <tag>
+
+
+Checking Out Tags
+
+> To view the state of a repo at a particular tag, we can use "git checkout <tag>.
+  This puts us in detached HEAD!
+
+> git tag
+> git checkout 15.3.1
+> git switch -c <Branch-Tag>
+
+------------------------------------------------------------------------------------
+
+> git tag
+> git diff v17.0.0 v17.0.1
