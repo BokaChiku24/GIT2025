@@ -12,23 +12,27 @@
 
   3.Patch Release
 
-> Initial Release
+> Initial Release (1.0.0)
 
   Typically, first release is 1.0.0
 
-> Patch Releases
+> Patch Releases (1.0.1)
 
   Patch releases normally do not contain new features or significant change.
   They typically signify bug fixes and other changes that do not impact
   how the code is used
 
-> Minor Release
+> Minor Release (1.1.0)
 
   Minor release signify that new feature or functionality have been added ,
   but the project still in backward compatible. No breaking changes.
   The new functionality is optional and should not force user to rewrite their own
   code.
 
+> Major Release (2.0.0)
+
+  Major releases signify significant changes that is no longer backward compatible.
+  Feature may be removed or changed.
 
 > https://semver.org
 
