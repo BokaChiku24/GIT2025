@@ -1,0 +1,7 @@
+Rebasing
+
+> Rebasing is actually useful as long as you know when NOT to use it!
+
+> There are two main ways to use the git rebase command:
+  1. as an alternative to merging
+  2. as a cleanup tool

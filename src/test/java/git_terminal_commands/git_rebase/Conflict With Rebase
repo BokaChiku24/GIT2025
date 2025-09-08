@@ -1,0 +1,15 @@
+> Solve all conflicts and perform below actions:
+
+>   "git add/rm <conflicted_files>" then run "git rebase --continue"
+
+  1. git rebase --continue
+
+     This will continue the rebase process
+
+  2. git rebase --abort
+
+     This will abort all the rebase process
+
+  3. git rebase --skip
+
+     This help to skip this commit

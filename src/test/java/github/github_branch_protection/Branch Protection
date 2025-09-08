@@ -1,0 +1,8 @@
+> Login to the Github
+> Go to the repository
+> Open the "Settings"
+> Go to the "Branch protect rules"
+> Click on the "Add rule" button
+> Add the "branch name pattern"
+> Require pull request reviews before merging (Required approving reviews 1/2..)
+

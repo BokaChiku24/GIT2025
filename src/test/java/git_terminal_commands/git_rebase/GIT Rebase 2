@@ -1,0 +1,42 @@
+> Create a folder in local
+> Go to the folder
+> git init
+> git switch -c <branch-name>
+> git status
+> touch feature.txt
+> git status
+> git add feature.txt
+> git commit -m "test"
+> Change the feature.txt
+> git commit -am "Again commit"
+> git switch master
+> touch master.txt
+> Perform some change in master.txt
+> git commit -am "Master commit"
+> git status
+> git log --oneline
+> git switch <branch-name>
+> git status
+> git merge master
+> git log --oneline
+> Perform some change in feature.txt
+> git commit -am "Again commit"
+> git switch master
+> touch website.txt
+> git status
+> git commit -am "Master commit"
+> git switch <branch-name>
+> git merge master
+> git log --oneline
+
+----------------------Actual Rebasing-----------------------
+
+> git rebase master
+> git branch
+> git log --oneline
+> git switch master
+> git commit -am "Master Branch Commit"
+> git switch <branch-name>
+> git diff <branch-name>..master
+> git rebase master
+> git log --oneline

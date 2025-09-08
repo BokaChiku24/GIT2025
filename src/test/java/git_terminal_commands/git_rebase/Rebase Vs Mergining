@@ -1,0 +1,15 @@
+In Merge, we need to perform multiple time merge if the project is very active
+Suppose master branch is very active and other branch work is still ongoing then
+merge approach performs lot of commit.
+
+Rebasing!
+
+> We can instead rebase the <branch-name> branch onto the master branch.
+  This moves the entire <branch-name> so that it BEGINS at the tip of the master
+  branch. All of the work is still there, but we have re-written history.
+
+> Instead of using a merge commit, rebasing rewrites history
+  by creating new commits for each of the original <branch-name> commits.
+
+> git switch <branch-name>
+> git rebase master

@@ -1,0 +1,31 @@
+> Login to the Github
+> Go to the Project Repository
+> Click on the "Fork" option
+> get the repository url
+> Now go to the local machine and clone the repository (git clone url)
+> Use (git log --oneline) to check all history
+> Use (git remote -v) to check fetch and push HTTPS urls
+> Go to the original project repository in Github
+> Copy the original HTTPS url
+> Now add the original HTTPS url in local (git remote add upstream url)
+> Check the fetch and push url (git remote -v)
+> Add some change in original and modify file in original repository (upstream)
+> Go to the "Fork" copy and Github display this branch is behind "Upstream"
+  repository
+> To get latest changes from "Upstream" in local (git pull upstream main)
+> Check (git log)
+> Perform change in local machine
+> Perform (git status)
+> Perform (git add <file-name>)
+> Perform the commit (git commit -m "add commit")
+> Perform push to the fork (git push origin <branch-name>)
+> Go to the Github of "Fork" and it display "This branch is 1 commit ahead of
+  "Upstream"
+> Click on the "Pull Request"
+> Click on the "Create Pull Request" button
+> Then add proper message and "Create Pull Request" button
+> Go to the original project repository
+> Open the "Pull Request" section in Github
+> Open the PR (Pull Request)
+> Review and confirm pull request so that fork changes will apply to the original
+  project repository

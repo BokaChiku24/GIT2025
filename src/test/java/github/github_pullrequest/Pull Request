@@ -1,0 +1,12 @@
+> Pull request are a feature built in to product like Github & Bitbucket.
+  They are not native to Git itself.
+
+> They allow developers to alert team-members to new work that needs to be reviewed.
+  They provide a mechanism to approve or reject the work on a given branch.
+
+> They also help facilitate discussion and feedback on the specified commits.
+
+> I have this new stuff I want to merge in to the master branch...what do you all
+  think about it?
+
+> https://github.com/facebook/react/pulls

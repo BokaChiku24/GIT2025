@@ -1,0 +1,11 @@
+User Site
+
+> You get one user site per Github account. This is where you could host a portfolio site
+  or some for of personal website. The default url is based on your Github username, following
+  this pattern: username.github.io though you can change this!
+
+Project Sites
+
+> You get unlimited project sites! Each Github repo can have a corresponding hosted websites.
+  It's a simple as telling Github which specific branch contains the web contains.
+  The default url follow this pattern: username.github.io/repo-name

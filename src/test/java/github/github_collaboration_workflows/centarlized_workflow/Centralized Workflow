@@ -1,0 +1,31 @@
+> Everyone works on Master/main branch.
+
+> The most basic workflow possible.
+
+> The simplest collaborative workflow is to have everyone  work on the master branch
+  ( or main, or any other SINGLE branch)
+
+> It's straight forward and can work for tiny teams, but it has quit a few
+  shortcomings!
+
+> Example, there are three collaborators and 1 performs three commits and other two
+  working on another feature and tries to push the code on Github.
+  "Failed to push. updates were rejected because the tip of your current branch is
+   behind its remote counterpart. Merge the remote changes (e.g. "git pull")
+   before pushing again."
+
+**********************************************************************************
+
+The Problem
+
+> While it's nice and easy to only work on the master branch, this leads to some
+  serious issues on teams!
+
+> Lots of time spent resolving conflicts and merging code, especially as team size
+  scales up.
+
+> No one can work on anything without disturbing the main codebase. How do you add
+  something radically different in? how do you experiment?
+
+> The only way to collaborate on a feature together with another is push incomplete
+  code to master. Other teammate now have broken code...

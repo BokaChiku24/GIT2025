@@ -1,0 +1,4 @@
+static sites
+
+> Github Pages is a hosting service for static webpages so it does not support server-side
+  code like Python, Ruby, or Node. Just HTML, CSS, JS!

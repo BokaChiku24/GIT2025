@@ -1,0 +1,23 @@
+> login to the Github
+> Create a new public repository "Chickens"
+> Create a new folder in local by using terminal
+> Perform "git init"
+> Create a new file "touch chickens.txt"
+> Add and commit the file " git commit -am "Test"
+> Rename master to main "git branch -M main"
+> Push the code "git remote add origin url"
+> Then perform "git push -u origin main"
+> Go to the Github
+> Go to the "Settings"
+> Scroll down and go to the "Github Pages" section
+> Go to local and create a new branch "git switch -c ght-pages"
+> Create a html file "touch index.html"
+> Add the website contains on the "index.html"
+> Then perform commit "git commit -am "Testing"
+> Push the code "git push origin ph-pages"
+> Go to the Github
+> Go to the "Settings"
+> Scroll down and go to the "Github Pages" section
+> In the source select "gh-pages" branch and "/ (root)" option from dropdown
+> Github display a message "Your site is ready to published at https://example.github.io/chickens"
+>
