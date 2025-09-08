@@ -1,0 +1,29 @@
+Rewriting History
+
+> Rewrite
+
+> Delete
+
+> Rename
+
+> Re-order Commit (Before Sharing To The Team)
+
+> Use "git rebase"
+
+-------------------------------------------------------------
+
+Interactive Rebase
+
+> git rebase -i HEAD~4
+
+
+
+> Running git rebase with the -i option will enter the interactive mode
+  which allows us to edit commits, add files, drop commits etc..
+
+> Note that we need to specify how far back we want to go to rewritten commit.
+
+> Also, notice that we are not rebasing into another branch.
+  Instead, we are rebasing series of commits onto the HEAD they currently based on.
+
+> https://github.com/Colt/interactive-rebase-demo

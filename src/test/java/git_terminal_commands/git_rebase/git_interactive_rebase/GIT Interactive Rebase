@@ -1,0 +1,16 @@
+> git status
+> git clone <url>
+> ls
+> git log --oneline
+> git switch -c <branch-name>
+> git log --oneline
+> git rebase -i HEAD~9
+
+
+This will open the text editor, we'll see a list of commits alongside a list
+of commands that we can choose from.
+1. pick - use the commit
+2. reword - use the commit, but edit the commit message
+3. edit - use commit, but stop for amending
+4. fixup - use commit content but meld it into previous commit and discard the commit
+5. drop - remove commit

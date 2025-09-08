@@ -1,0 +1,29 @@
+> 2.4.1
+
+> The semantic versioning spec outlines a standardized versioning system for software
+  releases. It provides a consistent way for developers to give a meaning to their
+  software releases (how big of a change is this release??)
+
+> Version consists of three numbers separated by periods.
+
+  1.Major Release
+
+  2.Minor Release
+
+  3.Patch Release
+
+> Initial Release
+
+  Typically, first release is 1.0.0
+
+> Patch Releases
+
+  Patch releases normally do not contain new features or significant change.
+  They typically signify bug fixes and other changes that do not impact
+  how the code is used
+
+> https://semver.org
+
+> https://getbootstrap.com/docs/versions/
+
+> https://legacy.reactjs.org/versions/

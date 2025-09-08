@@ -1,0 +1,24 @@
+> Tags are pointers that refer to particular points in Git history.
+
+> We can mark a particular moment in time with a tag.
+
+> Tags are most often used to mark version releases in projects (v4.1.0)
+
+> Think of tags as branch reference that do NOT CHANGE.
+
+> Once a tag is created, it always refers to the same commit.
+
+> It's just a label for a commit.
+
+
+-------------------------------------------------------------------------------
+
+> There are two type of Git Tags we can use:
+  1. Lightweight
+  2. Annotated tags
+
+> Lightweight Tags are lightweight. They are just a name / label that points to a
+  particular commit.
+
+> Annotated Tags store extra meta data including the author's name, email,
+  the date, and a tagging message (Like commit message)
