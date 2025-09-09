@@ -1,4 +1,4 @@
-> get fetch <remote>
+> git fetch <remote>
 
 
 
@@ -15,7 +15,7 @@ Git Fetch
 
 ******************************************************
 
-> get fetch <remote> <branch>
+> "git fetch <remote> <branch>"
 
 > We can also fetch a specific branch from a remote using "git fetch <remote> <branch>"
 

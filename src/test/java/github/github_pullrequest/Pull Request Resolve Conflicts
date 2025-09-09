@@ -2,6 +2,5 @@
 > git switch <branch-name>
 > git merge master
 > fix conflicts
-> git switch master
 > git merge <branch-name>
 > git push origin master

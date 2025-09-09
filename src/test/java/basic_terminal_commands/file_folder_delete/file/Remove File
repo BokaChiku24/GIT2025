@@ -1,7 +1,7 @@
-rm {File Name.extension}           -  MAC
+> rm {File Name.extension}           -  MAC
 
-rm purple.txt
+> rm purple.txt
 
-rm delete.txt remove.xls
+> rm delete.txt remove.xls
 
 rm: rm will delete a files or files (It permanently removes them!)

@@ -1,5 +1,5 @@
-git diff -- staged
-git diff --cached
+> git diff --staged
+> git diff --cached
 
 git diff --staged or --cached will list the changes between the staging area our
 last commit.

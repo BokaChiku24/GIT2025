@@ -11,7 +11,7 @@ Pulling
 
 > "Go and download data from github AND immediately update my local repo with those changes"
 
-> git pull = git fetch                           +   get merge
+> git pull = git fetch                           +   git merge
              (Update the remote tracking branch    (Update my current branch with
               with latest changes from the          whatever changes are on the remote
               remote repository)                    tracking branch)

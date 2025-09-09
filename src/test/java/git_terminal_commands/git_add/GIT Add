@@ -1,8 +1,8 @@
-git add file1 file2
+> git add file1 file2
 
-git add file1
+> git add file1
 
-git add .   - All Files
+> git add .   - All Files
 
 
 
@@ -54,5 +54,5 @@ No commits yet
 
 Changes to be committed:
   (use "git rm --cached <file>..." to unstage)
-	new file:   charachters.txt
+	new file:   characters.txt
 	new file:   test.txt

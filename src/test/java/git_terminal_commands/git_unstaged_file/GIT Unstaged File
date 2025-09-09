@@ -8,4 +8,4 @@ Unstaging Files with Restore
   remove it from staging.
 
 > Use the --staged option like this:
-  git restore --staged <file-name with extension>
+  "git restore --staged <file-name with extension>"

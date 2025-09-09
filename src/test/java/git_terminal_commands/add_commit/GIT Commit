@@ -1,0 +1,10 @@
+> git commit -m "{message}"
+
+
+
+Without adding new file direct commit
+
+
+> git commit -am "{message}"
+
+> git commit -a -m "Adding and commiting at a same time."

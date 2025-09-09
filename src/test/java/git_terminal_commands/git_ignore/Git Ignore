@@ -1,5 +1,5 @@
-touch .gitignore
-ls -a
+> touch .gitignore
+> ls -a
 
 
 Add the files which we don't want to add in the git and commit

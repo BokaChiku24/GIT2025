@@ -1,3 +1,3 @@
-Command: open {folder name}
+> open {folder name}
 
 open Pets

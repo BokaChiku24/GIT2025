@@ -1,18 +1,18 @@
-ls
+> ls
 
-cd Code
+> cd Code
 
-pwd
+> pwd
 
-open .
+> open .
 
-ls
+> ls
 
-cd 04_CSS_Intro/
+> cd 04_CSS_Intro/
 
-pwd
+> pwd
 
-ls
+> ls
 
-open .
+> open .
 

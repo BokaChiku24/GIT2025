@@ -12,5 +12,5 @@ Stashing Multiple Time:
 You can add multiple stashes onto the stash of stashes. They
 will all be stashed in the order you added them.
 
-git stash list -> It shows stash trace of all saved stash
+> git stash list -> It shows stash trace of all saved stash
 

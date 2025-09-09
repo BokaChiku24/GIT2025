@@ -1,5 +1,5 @@
-git stash
-git stash save
+> git stash
+> git stash save
 
 > git stash is super useful command that helps you save changes
   that you are not ready to commit. You can stash changes and then
